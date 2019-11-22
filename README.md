@@ -22,6 +22,7 @@ Used OpenSource
 6. ktx
 7. rxjava2
 8. com.balysv:material-ripple
+9. KISA ARIA CBC Cryption
 
 Used Design Pattern
 -----------
