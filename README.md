@@ -22,3 +22,7 @@ Used OpenSource
 6. ktx
 7. rxjava2
 8. com.balysv:material-ripple
+
+Used Design Pattern
+-----------
+MVVM
