@@ -9,3 +9,16 @@
 | Host Application  | Client Application |
 | ------------- | ------------- |
 | ![](https://github.com/sonic0987/-AriaBlueTooth/blob/master/server.gif) | ![](https://github.com/sonic0987/-AriaBlueTooth/blob/master/client.gif)  |
+| Galaxy A7(2018) | Galaxy S7 edge |
+
+
+Used OpenSource   
+-----------
+1. kotlin jdk
+2. android.material
+3. androidx.navigation
+4. androidx.lifecycle
+5. androidx.appcompat
+6. ktx
+7. rxjava2
+8. com.balysv:material-ripple
